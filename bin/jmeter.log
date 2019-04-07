@@ -1,0 +1,53 @@
+2019-04-07 15:46:06,551 INFO o.a.j.u.JMeterUtils: Setting Locale to en_SA
+2019-04-07 15:46:06,572 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2019-04-07 15:46:06,572 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2019-04-07 15:46:06,578 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2019-04-07 15:46:06,578 INFO o.a.j.JMeter: Version 3.2 r1790748
+2019-04-07 15:46:06,579 INFO o.a.j.JMeter: java.version=1.8.0_191
+2019-04-07 15:46:06,579 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-04-07 15:46:06,579 INFO o.a.j.JMeter: os.name=Mac OS X
+2019-04-07 15:46:06,579 INFO o.a.j.JMeter: os.arch=x86_64
+2019-04-07 15:46:06,579 INFO o.a.j.JMeter: os.version=10.14.3
+2019-04-07 15:46:06,579 INFO o.a.j.JMeter: file.encoding=UTF-8
+2019-04-07 15:46:06,579 INFO o.a.j.JMeter: Max memory     =536870912
+2019-04-07 15:46:06,579 INFO o.a.j.JMeter: Available Processors =4
+2019-04-07 15:46:06,583 INFO o.a.j.JMeter: Default Locale=English (Saudi Arabia)
+2019-04-07 15:46:06,583 INFO o.a.j.JMeter: JMeter  Locale=English (Saudi Arabia)
+2019-04-07 15:46:06,583 INFO o.a.j.JMeter: JMeterHome=/Users/jshehadeh/Desktop/Jmeter/Working/Jmeter3.2
+2019-04-07 15:46:06,583 INFO o.a.j.JMeter: user.dir  =/Users/jshehadeh/Desktop/Jmeter/Working/Jmeter3.2/bin
+2019-04-07 15:46:06,584 INFO o.a.j.JMeter: PWD       =/Users/jshehadeh/Desktop/Jmeter/Working/Jmeter3.2/bin
+2019-04-07 15:46:11,592 INFO o.a.j.JMeter: IP: 192.168.8.107 Name: Jamils-MacBook-Pro.local FullName: 192.168.8.107
+2019-04-07 15:46:13,645 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.apple.laf.AquaLookAndFeel [Mac OS X, System]
+2019-04-07 15:46:13,650 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-04-07 15:46:14,303 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2019-04-07 15:46:14,303 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2019-04-07 15:46:15,630 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2019-04-07 15:46:16,164 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2019-04-07 15:46:16,212 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2019-04-07 15:46:16,257 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-04-07 15:46:16,257 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-04-07 15:46:16,257 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-04-07 15:46:16,257 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-04-07 15:46:16,257 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-04-07 15:46:16,257 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-04-07 15:46:16,762 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-04-07 15:46:16,763 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/jshehadeh/Desktop/Jmeter/Working/Jmeter3.2/bin/proxyserver.jks
+2019-04-07 15:46:16,967 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2019-04-07 15:46:17,028 INFO o.a.j.s.FileServer: Default base='/Users/jshehadeh/Desktop/Jmeter/Working/Jmeter3.2/bin'
+2019-04-07 15:46:17,145 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2019-04-07 15:46:17,145 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2019-04-07 15:46:17,280 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2019-04-07 15:46:17,316 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2019-04-07 15:46:17,509 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-04-07 15:46:17,509 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-04-07 15:46:17,509 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-04-07 15:46:17,509 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2019-04-07 15:46:22,974 INFO o.a.j.g.a.Load: Loading file: /Users/jshehadeh/Desktop/Tests/LH-Test/LH-Test.jmx
+2019-04-07 15:46:22,975 INFO o.a.j.s.FileServer: Set new base='/Users/jshehadeh/Desktop/Tests/LH-Test'
+2019-04-07 15:46:23,062 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2019-04-07 15:46:23,077 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2019-04-07 15:46:23,079 INFO o.a.j.s.SaveService: Using SaveService properties version 3.2
+2019-04-07 15:46:23,083 INFO o.a.j.s.SaveService: Loading file: /Users/jshehadeh/Desktop/Tests/LH-Test/LH-Test.jmx
+2019-04-07 15:46:23,115 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2019-04-07 15:46:23,121 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2019-04-07 15:46:23,400 INFO o.a.j.s.FileServer: Set new base='/Users/jshehadeh/Desktop/Tests/LH-Test'
